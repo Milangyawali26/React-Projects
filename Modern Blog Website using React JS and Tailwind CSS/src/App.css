@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.active{
+    @apply text-orange-500 underline  underline-offset-4;
+}
